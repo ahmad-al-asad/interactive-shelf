@@ -1,3 +1,2 @@
-2025/03/20-16:12:00.067 25f4 Reusing MANIFEST E:/Unreal/Project 685/Virtual_Shelf/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2025/03/20-16:12:00.069 25f4 Recovering log #3
-2025/03/20-16:12:00.070 25f4 Reusing old log E:/Unreal/Project 685/Virtual_Shelf/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2025/03/20-16:48:31.284 41bc Creating DB E:/Unreal/Project 685/virtual-shelf/Virtual_shelf/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2025/03/20-16:48:31.308 41bc Reusing MANIFEST E:/Unreal/Project 685/virtual-shelf/Virtual_shelf/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
