@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal/Project 685/virtual-shelf/New/Interactive_Shelf/InteractiveShelf/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"E:/Unreal/Project 685/virtual-shelf/New/Interactive_Shelf/InteractiveShelf/Content/ShelfTemplate/lambert2.uasset",
+				"E:/Unreal/Project 685/virtual-shelf/New/Interactive_Shelf/InteractiveShelf/Content/ShelfTemplate/Oak_Bookcase_polySurface1.uasset",
+				"E:/Unreal/Project 685/virtual-shelf/New/Interactive_Shelf/InteractiveShelf/Content/ShelfTemplate/Oak_Bookcase_polySurface14polySurface8.uasset",
+				"E:/Unreal/Project 685/virtual-shelf/New/Interactive_Shelf/InteractiveShelf/Content/ShelfTemplate/Oak_Bookcase_polySurface2.uasset",
+				"E:/Unreal/Project 685/virtual-shelf/New/Interactive_Shelf/InteractiveShelf/Content/ShelfTemplate/Oak_Bookcase_polySurface3.uasset",
+				"E:/Unreal/Project 685/virtual-shelf/New/Interactive_Shelf/InteractiveShelf/Content/ShelfTemplate/Oak_Bookcase_polySurface4.uasset",
+				"E:/Unreal/Project 685/virtual-shelf/New/Interactive_Shelf/InteractiveShelf/Content/ShelfTemplate/Oak_Bookcase_polySurface5.uasset",
+				"E:/Unreal/Project 685/virtual-shelf/New/Interactive_Shelf/InteractiveShelf/Content/ShelfTemplate/Oak_Bookcase_polySurface8polySurface12.uasset",
+				"E:/Unreal/UE_5.3/UE_5.4/Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset",
+				"E:/Unreal/Project 685/virtual-shelf/New/Interactive_Shelf/InteractiveShelf/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_02ID_Mat.uasset",
+				"E:/Unreal/Project 685/virtual-shelf/New/Interactive_Shelf/InteractiveShelf/Content/Fab/Owl_Statue/M_Statue_Owl_Small.uasset",
+				"E:/Unreal/Project 685/virtual-shelf/New/Interactive_Shelf/InteractiveShelf/Content/Fab/Owl_Statue/owl_statue.uasset",
+				"E:/Unreal/Project 685/virtual-shelf/New/Interactive_Shelf/InteractiveShelf/Content/Fab/Owl_Statue/owl_statue_texture_0.uasset",
+				"E:/Unreal/Project 685/virtual-shelf/New/Interactive_Shelf/InteractiveShelf/Content/Fab/Owl_Statue/owl_statue_texture_1.uasset",
+				"E:/Unreal/Project 685/virtual-shelf/New/Interactive_Shelf/InteractiveShelf/Content/Fab/Owl_Statue/owl_statue_texture_2.uasset"
+			]
+		}
+	]
+}
